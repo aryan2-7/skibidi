@@ -1,3 +1,3 @@
 # skibidi
 
-template from html5up.net/
+template from https://html5up.net/
